@@ -1,4 +1,4 @@
-# Information / Информация
+# Information
 
 Тип контента **Патент**.
 
@@ -17,13 +17,13 @@
   - `type` - тип патента.
 - `date` - дата публикации патента.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-patent.git archetypes/patent
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
